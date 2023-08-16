@@ -1,0 +1,31 @@
+{
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "KiCAD AMF plugin",
+            "description": "A NextPCB Active Manufacturing addone for KiCAD",
+            "description_full": "Query price and place order",
+            "identifier": "com.github.SYSUeric66.kicad-amf-plugin",
+            "type": "plugin",
+            "author": {
+                "name": "SYSUeric66",
+                "contact": {
+                    "email": "jzzhuang666@gmail.com"
+                }
+            },
+            "maintainer": {
+                "name": "SYSUeric66",
+                "contact": {
+                    "email": "jzzhuang666@gmail.com"
+                }
+            },
+            "license": "GPL-3.0",
+            "resources": {
+                "Github": "https://github.com/SYSUeric66/kicad-amf-plugin"
+            },
+            "versions": [
+                
+            ]
+        }
+    ]
+}

@@ -29,5 +29,6 @@ jobs:
         with:
           author_name: GitHub Actions
           author_email: actions@github.com
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           message: 'Update Addon repository after new release'
           add: '*.json'

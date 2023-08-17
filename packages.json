@@ -24,7 +24,15 @@
                 "Github": "https://github.com/SYSUeric66/kicad-amf-plugin"
             },
             "versions": [
-                
+                {
+                    "version": "2023.8.17",
+                    "status": "testing",
+                    "kicad_version": "6.0",
+                    "download_sha256": "a057df34691e46b6abf0c5336ac49722292f021b99247f6f48ff2deeaf48b76a",
+                    "download_size": 23888,
+                    "download_url": "https://github.com/SYSUeric66/kicad-amf-plugin/releases/download/2023.8.17/KiCAD-PCM-2023.8.17.zip",
+                    "install_size": 94419
+                }
             ]
         }
     ]

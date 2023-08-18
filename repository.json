@@ -8,15 +8,15 @@
     },
     "name": "SYSUeric66's KiCad addone repository",
     "packages": {
-        "sha256": "023e9934033fd94dc4cbb5008fb7918c84530fee2eaa7f0ce708456f7c01e7bd",
-        "update_time_utc": "2023-08-17 09:03:36",
-        "update_timestamp": 1692263016,
+        "sha256": "79097ef525c92f989321404a9126d290591193fc810e27a32c803072087fd96d",
+        "update_time_utc": "2023-08-18 07:06:31",
+        "update_timestamp": 1692342391,
         "url": "https://raw.githubusercontent.com/SYSUeric66/SYSUeric66-kicad-addone-repository/main/packages.json"
     },
     "resources": {
-        "sha256": "08d950e20ffea4c9adc89a6af06692a12fdb9348284747aba94aa74dc0cee96e",
-        "update_time_utc": "2023-08-17 09:03:36",
-        "update_timestamp": 1692263016,
+        "sha256": "1f986b5025c41ba391dbc4c6e47578b1a6426c757a7c1421b517001c68c8bb72",
+        "update_time_utc": "2023-08-18 07:06:31",
+        "update_timestamp": 1692342391,
         "url": "https://github.com/SYSUeric66/SYSUeric66-kicad-addone-repository/raw/main/resources.zip"
     }
 }

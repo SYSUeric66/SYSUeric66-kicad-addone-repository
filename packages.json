@@ -28,7 +28,7 @@
                     "version": "2023.8.17",
                     "status": "testing",
                     "kicad_version": "6.0",
-                    "download_sha256": "8cb8f89e192bfce4c1ee72db4d5ef125d10e72b6724fa029e14a4154d1bd8f15",
+                    "download_sha256": "cdb8f9c13a7cb1a65001bbf731b5c225ef84712592acbd29c8e0186bca9dd24b",
                     "download_size": 23888,
                     "download_url": "https://github.com/SYSUeric66/kicad-amf-plugin/releases/download/2023.8.17/KiCAD-PCM-2023.8.17.zip",
                     "install_size": 94419

@@ -46,9 +46,9 @@
                     "version": "2023.10.27",
                     "status": "testing",
                     "kicad_version": "6.0",
-                    "download_sha256": "dab434b8a2100a98fb8e01fc20337e0883ffe0b1c9323b67bfdb2e4bda37e663",
+                    "download_sha256": "66399697b01ddf04fbea991dfffbc9421f63dfd23213cfa92848713090c9bdfa",
                     "download_size": 113413,
-                    "download_url": "https://github.com/Bouni/kicad-jlcpcb-tools/releases/download/2023.10.27/KiCAD-PCM-2023.10.27.zip",
+                    "download_url": "https://github.com/SYSUeric66/kicad-amf-plugin/releases/download/2023.10.27/KiCAD-PCM-2023.10.27.zip",
                     "install_size": 743453
                 }
             ]
